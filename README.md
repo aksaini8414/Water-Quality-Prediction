@@ -22,7 +22,7 @@ This project utilizes machine learning techniques to predict water quality param
 ## Installation
 1. Clone the repository:
 
-git clone https://github.com/your-username/water-quality-prediction.git
+git clone [https://github.com/aksaini8414/water-quality-prediction.git](https://github.com/aksaini8414/Water-Quality-Prediction)
 
 2. Install the required dependencies:
 pip install -r requirements.txt
